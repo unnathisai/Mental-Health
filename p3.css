@@ -1,0 +1,43 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #fae7f3;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+li {
+    margin: 10px;
+}
+
+h1 {
+    font-size: 25px;
+    color: #22092C;
+    margin-bottom: 2px;
+}
+
+h1:hover {
+    color: #a1378e;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    font-size: 21px;
+    color: #5F0F40;
+    margin: 0;
+}
